@@ -1,4 +1,1 @@
-HughGordon-first-site
-=====================
-
-Assignment #1
+Read this
