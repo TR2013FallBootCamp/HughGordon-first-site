@@ -1,0 +1,8 @@
+a:link {color:blue;}
+a:visited {color:green;}
+a:hover {color:lime;}
+a:active {color:red;}
+a, a:link {text-decoration:none;}
+h1, h2 {text-align:center; color:blue;}
+hr {color:red; background-color: blue; height:3px; width:75%;}
+p {text-align:center;}
